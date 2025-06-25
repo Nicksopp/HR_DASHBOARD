@@ -1,4 +1,4 @@
-# 👥 HR Analytics Dashboard in Excel
+# 👥 HR Analytics Dashboard in POWER BI 
 
 This project presents a comprehensive **Human Resources (HR) Dashboard** built using Microsoft Excel. It provides valuable insights into staffing, salary distribution, gender diversity, hiring trends, and leave analysis — perfect for decision-making in HR operations.
 
